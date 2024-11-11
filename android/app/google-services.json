@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "80777751289",
+    "project_id": "inclusivehue",
+    "storage_bucket": "inclusivehue.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80777751289:android:867d9613e05ed55dd7d028",
+        "android_client_info": {
+          "package_name": "com.example.inclusive_hue_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRhm3UPhU63M2HwHOpVm2NmMDd5ANgKkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
